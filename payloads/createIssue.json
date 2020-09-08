@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "QAAE2002"
+    },
+    "summary": "Creating ticket using RestAssured Java Library",
+    "description": "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype": {
+      "name": "Bug"
+    }
+  }
+}
